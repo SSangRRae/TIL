@@ -1,4 +1,4 @@
-# 02_컬렉션 타입
+# 03_컬렉션 타입
 
 >[유튜브 yagom - 스위프트 기초문법 강좌](https://www.youtube.com/playlist?list=PLz8NH7YHUj_ZmlgcSETF51Z9GSSU6Uioy)
 
