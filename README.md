@@ -12,3 +12,6 @@
 9. [클래스](https://github.com/SSangRRae/TIL/blob/main/Swift/09_class.md)
 10. [열거형](https://github.com/SSangRRae/TIL/blob/main/Swift/10_enum.md)
 11. [값, 참조 타입](https://github.com/SSangRRae/TIL/blob/main/Swift/11_value_reference_type.md)
+12. [클로저](https://github.com/SSangRRae/TIL/blob/main/Swift/12_closure.md)
+13. [프로퍼티](https://github.com/SSangRRae/TIL/blob/main/Swift/13_property.md)
+14. [상속](https://github.com/SSangRRae/TIL/blob/main/Swift/14_inheritance.md)
