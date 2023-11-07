@@ -1,4 +1,4 @@
-# 11_값_참조_타입
+# 11_값, 참조 타입
 
 >[유튜브 yagom - 스위프트 기초문법 강좌](https://www.youtube.com/playlist?list=PLz8NH7YHUj_ZmlgcSETF51Z9GSSU6Uioy)
 
