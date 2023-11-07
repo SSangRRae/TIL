@@ -19,3 +19,7 @@
 16. [옵셔널 체이닝](https://github.com/SSangRRae/TIL/blob/main/Swift/16_optional_chaining.md)
 17. [타입 캐스팅](https://github.com/SSangRRae/TIL/blob/main/Swift/17_type_casting.md)
 18. [assert와 guard](https://github.com/SSangRRae/TIL/blob/main/Swift/18_assert_guard.md)
+19. [프로토콜](https://github.com/SSangRRae/TIL/blob/main/Swift/19_protocol.md)
+20. [익스텐션](https://github.com/SSangRRae/TIL/blob/main/Swift/20_extension.md)
+21. [오류처리](https://github.com/SSangRRae/TIL/blob/main/Swift/21_error_handling.md)
+22. [고차함수](https://github.com/SSangRRae/TIL/blob/main/Swift/22_higher_order_function.md)
