@@ -18,6 +18,10 @@ var integers: Array<int> = Array<int>()
 // 값 추가
 integers.append(1)
 integers.append(100)
+integers.append(contentsOf: [3, 4, 5])
+
+// 원하는 위치에 값  추가
+integers.insert(2, at: 0)
 
 // 값 확인
 integers.contains(100) // true
@@ -43,8 +47,11 @@ var anyDictionary: Dictionary<String, Any> = [String: Any]()
 anyDictionary["key1"] = "value1"
 anyDictionary["key2"] = 2
 
+// 값 변경
+anyDictionary.updateValue("value2", forKey: "key2")
+
 // 값 삭제
-anyDictionary.removeValue(forKey: "key")
+anyDictionary.removeValue(forKey: "key1")
 anyDictionary["key2"] = nil
 ```
 
@@ -53,6 +60,7 @@ anyDictionary["key2"] = nil
 ## 4. Set
 ```swift
 var integerSet: Set<int> = Set<int>()
+var integerSet2: Set = [1, 2, 3]
 
 // 값 추가
 integerSet.insert(1)
@@ -68,6 +76,12 @@ integerSet.removeFirst()
 
 // 개수 확인
 integerSet.count
+
+// 교집합
+integerSet.intersection(integerSet2)
+
+// 합집합
+integerSet.union(integerSet2)
 ```
 
 <br>
@@ -82,5 +96,6 @@ var characters: [Character] = []
 // Dictionary
 var emptyDic: Dictionary[String, String] = [:]
 
-// Set은 없음
+// Set
+var integers: Set = []
 ```
